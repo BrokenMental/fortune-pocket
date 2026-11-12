@@ -1,0 +1,299 @@
+[
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "MATCH_MINI",
+      "allowedEvidenceIds": [
+        "DEMO_SCENARIO"
+      ]
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "MATCH_MINI",
+      "title": "서로 다른 속도로 준비하는 우리",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "약속을 잡는 방식",
+          "body": "하늘에게는 날짜와 장소를 미리 정하는 일이 편안함으로 이어질 수 있어요. 바다에게는 당일 기분에 따라 고를 여지가 즐거움일 수 있고요. 다음 약속에서는 만날 시간만 먼저 고정하고, 식당 두 곳 중 하나는 그날 함께 골라보세요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C2",
+          "heading": "기다리는 동안 전할 말",
+          "body": "답장을 기다리는 시간이 길어지면 준비하는 사람은 일정을 정하기 어려울 수 있어요. 바로 결정하기 어렵다면 “오늘 저녁까지 보고 알려줄게”처럼 답할 시간을 먼저 전해보세요. 기다리는 사람도 그 시간까지 다른 일을 할 여유가 생겨요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C3",
+          "heading": "함께 남길 작은 기록",
+          "body": "약속이 끝난 뒤 좋았던 선택 하나와 다음에 바꾸고 싶은 선택 하나를 나눠보세요. 이번에는 즉석에서 고른 산책길이 좋았다면 그 선택을 기억하고, 식당 대기가 길었다면 다음에는 예약만 함께 준비할 수 있어요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        }
+      ],
+      "questions": [
+        "약속 전에 꼭 정해져 있어야 마음 편한 것은 무엇인가요?",
+        "그날의 기분에 맡겨두고 싶은 선택은 무엇인가요?"
+      ],
+      "limitations": "가상 상황을 바탕으로 만든 대화 예시예요. 상대의 실제 마음과 선호는 직접 확인해 주세요."
+    },
+    "display": null,
+    "userMessage": null
+  },
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "MATCH_FULL",
+      "allowedEvidenceIds": [
+        "DEMO_SCENARIO"
+      ]
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "MATCH_FULL",
+      "title": "쉬는 시간과 이야기할 시간을 함께 정하기",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "대화를 여는 표현",
+          "body": "오늘 있었던 일을 말하기 전에 “지금 십 분 정도 들어줄 여유가 있어?”라고 물어보세요. 듣는 사람도 “지금 가능해” 또는 “씻고 나서 이야기하자”처럼 현재 여유와 가능한 시간을 함께 전할 수 있어요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C2",
+          "heading": "도움의 종류 맞추기",
+          "body": "고민을 들을 때 해결책을 먼저 찾는 방식과 감정을 먼저 받아주는 방식이 다를 수 있어요. “오늘은 같이 방법을 찾아볼까, 먼저 들어줄까?”라는 한 문장으로 이번 대화에서 필요한 도움을 골라보세요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C3",
+          "heading": "갈등 중 잠깐 멈추기",
+          "body": "목소리가 커지기 시작하면 잠깐 멈출 수 있어요. “이십 분 쉬고 아홉 시에 다시 이야기하고 싶어”처럼 돌아올 시간을 함께 정해보세요. 쉬는 동안 이어서 보낼 반박 메시지를 쓰기보다 물을 마시거나 자리를 정리해 보세요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C4",
+          "heading": "다시 만났을 때의 첫 문장",
+          "body": "“너는 늘 그래” 대신 오늘의 한 장면을 짚어보세요. “시간을 정하지 않고 대화가 끝나서 기다리기 어려웠어. 다음에는 다시 이야기할 시간을 알려줄래?”처럼 관찰한 일과 다음 부탁을 연결해 보세요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C5",
+          "heading": "함께할 활동",
+          "body": "대화할 에너지가 적은 날에는 각자 고른 노래 한 곡을 함께 듣거나 집 근처를 짧게 걸어보세요. 활동이 끝난 뒤 계속 이야기할지, 오늘은 쉬고 내일 만날지 함께 정하면 돼요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C6",
+          "heading": "우리만의 한 줄 약속",
+          "body": "이번 주에는 “쉬고 싶을 때 돌아올 시간을 말하기” 하나만 실험해 보세요. 주말에 두 사람 모두에게 도움이 됐는지 확인하고, 부담스러웠다면 시간을 더 짧게 잡거나 다른 방식을 선택할 수 있어요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        }
+      ],
+      "questions": [
+        "피곤한 날 이야기를 시작하기 좋은 신호는 무엇인가요?",
+        "고민을 말할 때 어떤 도움을 먼저 받고 싶나요?",
+        "잠깐 쉬었다 돌아오기까지 어느 정도 시간이 편한가요?",
+        "다시 대화를 시작할 때 듣고 싶은 첫 문장은 무엇인가요?",
+        "이번 주에 두 사람이 함께 시도할 약속 하나는 무엇인가요?"
+      ],
+      "limitations": "가상 상황의 대화 연습 예시예요. 관계의 미래나 상대의 속마음을 판단하는 결과가 아니에요. 각자 편한 범위에서 선택해 주세요."
+    },
+    "display": null,
+    "userMessage": null
+  },
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "GIFT_MINI",
+      "allowedEvidenceIds": [
+        "DEMO_SCENARIO"
+      ]
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "GIFT_MINI",
+      "title": "작은 시작을 남기는 힘",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "작은 시작을 남기는 힘",
+          "body": "준비할 것이 많아 첫걸음이 멀게 느껴진다면, 오늘 끝낼 수 있는 작은 일을 골라보세요. 필요한 자료 하나를 저장하거나 첫 질문 하나를 적는 것으로 시작해도 좋아요. 며칠 뒤 그 기록을 보면 자신에게 맞는 다음 걸음을 고르는 데 도움이 될 수 있어요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        }
+      ],
+      "questions": [],
+      "limitations": "이 샘플은 가상 응원 문안이에요. 실제 사주 계산을 사용하지 않았어요."
+    },
+    "display": {
+      "recipientNickname": "여울"
+    },
+    "userMessage": "여울아, 새 출발을 함께 기뻐해. 이번 주에 시간 괜찮으면 밥 한 끼 같이 먹자. 네가 요즘 궁금해하는 이야기를 듣고 싶어."
+  },
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "GIFT_BOOK",
+      "allowedEvidenceIds": [
+        "DEMO_SCENARIO"
+      ]
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "GIFT_BOOK",
+      "title": "생일에 보내는 한 조각",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "생일에 보내는 한 조각",
+          "body": "바쁜 하루 사이에도 자신이 좋아하는 것을 알아차리는 시간이 있기를 바라요. 이 작은 책에는 오늘 간직할 장면, 쉬어갈 방법, 다음에 해보고 싶은 일을 담았어요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C2",
+          "heading": "마음에 남은 장면 모으기",
+          "body": "지난 한 달 중 다시 떠올리고 싶은 순간 하나를 골라보세요. 누군가와 나눈 짧은 인사나 혼자 완성한 일이 떠오를 수도 있어요. 장면을 한 줄 적고, 그때 좋았던 이유를 덧붙여 보세요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C3",
+          "heading": "쉬는 방식 고르기",
+          "body": "쉬는 시간에 누구와 있고 싶은지는 날마다 달라질 수 있어요. 조용히 혼자 걷기, 좋아하는 사람과 차 마시기, 집에서 음악 듣기 중 오늘 끌리는 것을 골라보세요. 다른 방식이 떠오르면 그 선택을 따라도 좋아요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        },
+        {
+          "id": "C4",
+          "heading": "다음 생일까지 남길 작은 약속",
+          "body": "해보고 싶은 일을 크게 완성하려 하기보다 이번 달에 시도할 한 장면으로 적어보세요. “토요일 오전에 동네 서점 한 곳 둘러보기”처럼 언제 어디서 할지 붙이면 시작할 자리를 마련할 수 있어요. 이 페이지를 다음 달에 다시 열어 바꾸어 적어도 좋아요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        }
+      ],
+      "questions": [],
+      "limitations": "실제 사주 계산을 사용하지 않은 가상 선물책 예시예요."
+    },
+    "display": {
+      "recipientNickname": "솔"
+    },
+    "userMessage": "솔아, 생일 축하해. 지난번 네가 알려준 책을 읽고 있어. 다음에 만나면 서로 마음에 남은 장면을 이야기하자."
+  },
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "JOURNAL_PROMPT",
+      "allowedEvidenceIds": [
+        "DEMO_SCENARIO"
+      ]
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "JOURNAL_PROMPT",
+      "title": "시작 앞에서 나에게 묻는 다섯 가지",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "시작을 준비하는 방법",
+          "body": "시작이 어렵게 느껴질 때는 해야 할 일과 걱정하는 일을 따로 적어보세요. 아직 정보가 부족한 부분과 이미 선택할 수 있는 부분을 구분하면 오늘의 작은 행동을 고르기 쉬워질 수 있어요. 아래 질문은 필요할 때 하나씩 골라 답해도 좋아요.",
+          "evidenceIds": [
+            "DEMO_SCENARIO"
+          ]
+        }
+      ],
+      "questions": [
+        "시작하려는 일을 내 말로 한 문장으로 적으면 무엇인가요?",
+        "이미 알고 있는 것과 추가로 알아볼 것은 각각 무엇인가요?",
+        "오늘 십 분 안에 해볼 수 있는 준비는 무엇인가요?",
+        "도움이 필요하다면 누구에게 어떤 질문을 하고 싶나요?",
+        "시도한 뒤 계속할지 바꿀지 판단할 나만의 기준은 무엇인가요?"
+      ],
+      "limitations": "선택한 주제를 위한 가상 질문 예시예요. 실제 계산 기반 개인화 결과가 아니며, 답하지 않고 건너뛰어도 괜찮아요. 무료 일기 저장·열람은 구매 여부와 관계없이 이용하는 설계예요."
+    },
+    "display": null,
+    "userMessage": null
+  },
+  {
+    "demoOnly": true,
+    "calculationStatus": "not-computed",
+    "context": {
+      "productId": "JOURNAL_REVIEW",
+      "allowedEvidenceIds": [
+        "J1",
+        "J2",
+        "J3"
+      ],
+      "selectedEntryCount": 3
+    },
+    "content": {
+      "schemaVersion": "1.0",
+      "productId": "JOURNAL_REVIEW",
+      "title": "준비할 한 가지, 쉴 시간 한 칸",
+      "cards": [
+        {
+          "id": "C1",
+          "heading": "기록에서 보인 공통 주제",
+          "body": "선택한 세 기록에는 행동을 시작할 준비와 그날의 여유를 살피는 장면이 담겨 있어요. 월요일에는 질문 메모가 실제 질문으로 이어졌고, 수요일에는 쉰 뒤 저녁을 준비할 여유가 생겼어요. 토요일에는 다음 약속을 정할 방법을 직접 떠올렸고요.",
+          "evidenceIds": [
+            "J1",
+            "J2",
+            "J3"
+          ]
+        },
+        {
+          "id": "C2",
+          "heading": "나에게 남기는 질문",
+          "body": "쉬고 나서 여유가 생긴 날에는 무엇이 달랐나요? 이번 기록에서 계속해 보고 싶은 방식 하나를 골라보세요.",
+          "evidenceIds": [
+            "J1",
+            "J2"
+          ]
+        },
+        {
+          "id": "C3",
+          "heading": "다음에 시도할 행동",
+          "body": "친구에게 가능한 시간 두 개를 보내고, 답을 기다릴 수 있는 날짜도 함께 적어보세요. 약속을 정한 뒤에는 이 방법이 편했는지 한 줄 남겨볼 수 있어요. 기록에 직접 적은 다음 계획에서 가져온 제안이에요.",
+          "evidenceIds": [
+            "J3"
+          ]
+        }
+      ],
+      "questions": [
+        "질문 메모처럼 시작을 도왔던 준비를 다른 일에도 써보고 싶나요?"
+      ],
+      "limitations": "선택한 기록 3개만 요약한 예시예요. 기록 밖의 성격·감정·생활을 추정하지 않았어요. 기록은 상황의 일부이므로 원하는 제안만 골라 사용해 주세요. 실제 제공 시 입력 확인은 비공개 화면에 두고 결과 공유에는 원문·기록 ID를 제외해요."
+    },
+    "display": null,
+    "userMessage": null
+  }
+]

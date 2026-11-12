@@ -1,0 +1,12 @@
+{
+  "name": "fortune-pocket-content-validation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test content.test.mjs samples.test.mjs request.test.mjs run-local.test.mjs review-log.test.mjs journal-share.test.mjs budget.test.mjs file-budget.test.mjs reconciliation.test.mjs recoverable-call.test.mjs recoverable-content.test.mjs openai-adapter.test.mjs provider-pipeline.test.mjs calculated-match.test.mjs traditional-rules.test.mjs",
+    "fixtures": "node fixtures.mjs",
+    "samples": "node samples.mjs",
+    "evaluation": "node evaluation.mjs",
+    "local": "node run-local.mjs"
+  }
+}

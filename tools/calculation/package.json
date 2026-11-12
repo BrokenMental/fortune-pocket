@@ -1,0 +1,1 @@
+{"name":"fortune-pocket-calculation-validation","private":true,"type":"module","scripts":{"test":"node --test validation.test.mjs terms.test.mjs pillars.test.mjs adult.test.mjs hour-policy.test.mjs"},"dependencies":{"korean-lunar-calendar":"0.4.0","lunar-typescript":"1.8.6"}}

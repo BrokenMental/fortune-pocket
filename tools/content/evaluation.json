@@ -1,0 +1,3242 @@
+[
+  {
+    "caseId": "MATCH_MINI-01",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-02",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-03",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-04",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-05",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-06",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-07",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-08",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-09",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-10",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-11",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-12",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-13",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-14",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-15",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-16",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-17",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-18",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-19",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_MINI-20",
+    "productId": "MATCH_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-01",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-02",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-03",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-04",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-05",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-06",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-07",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-08",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-09",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-10",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-11",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-12",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-13",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-14",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-15",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-16",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-17",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-18",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-19",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "MATCH_FULL-20",
+    "productId": "MATCH_FULL",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-01",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-02",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-03",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-04",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-05",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-06",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-07",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-08",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-09",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-10",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-11",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-12",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-13",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-14",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-15",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-16",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-17",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-18",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-19",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_MINI-20",
+    "productId": "GIFT_MINI",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-01",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-02",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-03",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-04",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-05",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-06",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-07",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-08",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-09",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-10",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-11",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-12",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-13",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-14",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-15",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-16",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-17",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-18",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-19",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "GIFT_BOOK-20",
+    "productId": "GIFT_BOOK",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-01",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-02",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-03",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-04",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-05",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-06",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-07",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-08",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-09",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-10",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-11",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-12",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-13",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-14",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-15",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-16",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-17",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-18",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-19",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_PROMPT-20",
+    "productId": "JOURNAL_PROMPT",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-01",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-02",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-03",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-04",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-05",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-06",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-07",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-08",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-09",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-10",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-11",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-12",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-13",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-14",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-15",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-16",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-17",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-18",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-19",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  },
+  {
+    "caseId": "JOURNAL_REVIEW-20",
+    "productId": "JOURNAL_REVIEW",
+    "status": "pending",
+    "requestVersion": "1.0",
+    "calculationVersion": null,
+    "contentVersion": null,
+    "model": null,
+    "outputPath": null,
+    "checks": {
+      "structure": null,
+      "evidence": null,
+      "privacy": null,
+      "language": null,
+      "usefulness": null,
+      "repetition": null
+    },
+    "measurement": {
+      "inputTokens": null,
+      "outputTokens": null,
+      "retries": null,
+      "costKrw": null,
+      "latencyMs": null
+    },
+    "reviewer": null,
+    "reason": null
+  }
+]

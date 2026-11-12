@@ -1,0 +1,1 @@
+{"name":"fortune-pocket","private":true,"type":"module","scripts":{"check":"node tools/check.mjs","readiness":"node tools/readiness.mjs","test":"node tools/check.mjs"}}

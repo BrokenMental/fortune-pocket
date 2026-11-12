@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "model": null,
+  "budgetMicroUsd": null,
+  "budgetAuthorizationReference": null,
+  "inputTokenCap": 4000,
+  "outputTokenCap": 3000
+}
